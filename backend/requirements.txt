@@ -1,0 +1,15 @@
+pip~=22.3.1
+wheel>=0.38.4
+setuptools>=65.5.1
+scipy==1.11.3
+gensim==4.3.1
+seaborn==0.8
+nltk==3.8.1
+fastapi==0.100.1
+uvicorn==0.20.0
+pydantic==2.3.0
+websockets==11.0.3
+python-multipart==0.0.6
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.0.1
